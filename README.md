@@ -13,6 +13,7 @@ AI SaaS Solutions: Developing scalable platforms for automation and efficiency.
 Deep Reinforcement Learning for autonomous decision-making.
 SLAM for real-time navigation and mapping.
 Edge AI optimization for embedded systems.
+E-commerce using Shopify & Tiktok ads.
 
 
 
