@@ -29,7 +29,7 @@ Owner of Super Fitness SaaS
 🤝 Collaboration
 I’m looking to collaborate on autonomous robotics, AI-powered systems, and deep learning innovations. Let’s work together to push the boundaries of technology.
 
-
+Open to new Job opportunities.
 
 📫 Connect With Me
 Email: ahmedmahmoud.au5@gmail.com
