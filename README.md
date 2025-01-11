@@ -1,19 +1,23 @@
 👋 Hi, I'm Ahmed Mahmoud (@Brutalxnor)
-🌟 About Me
-I’m a Mechatronics Engineer, AI Innovator, and Problem Solver. I focus on creating intelligent solutions for real-world challenges.
+
+->I’m a Mechatronics Engineer, AI Innovator, and Problem Solver. I focus on creating intelligent solutions for real-world challenges.<-
 
 🚀 Expertise
 Mechatronics & Robotics: Autonomous robots with advanced navigation, perception, and control systems.
 AI & Deep Learning: Computer vision, natural language processing, and reinforcement learning.
 Software Development: Skilled in Python, C++, MATLAB, and tools like ROS.
-AI SaaS Solutions: Developing scalable platforms for automation and efficiency.
 
+🌟 Software Development
+Software Development: Professional Gamedev: in (C# & C++), Java, Professional Webdev: (NEXT Stack, TS, JS), and Python.
+Databases: SQL, NoSQL. (MongoDB & Supabase).
+AI SaaS Solutions: Developing scalable platforms for automation and efficiency.
+Expert in Utilizing Agentic AI Solutions.
 
 🌱 Current Focus
-Deep Reinforcement Learning for autonomous decision-making.
+Deep Reinforcement Learning for Autonomous Decision Making.
 SLAM for real-time navigation and mapping.
 Edge AI optimization for embedded systems.
-E-commerce using Shopify & Tiktok ads.
+E-commerce using Shopify & TikTok ads.
 
 
 
