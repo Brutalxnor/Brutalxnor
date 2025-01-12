@@ -5,7 +5,7 @@
 🚀 Expertise
 Mechatronics & Robotics: Autonomous robots with advanced navigation, perception, and control systems.
 AI & Deep Learning: Computer vision, natural language processing, and reinforcement learning.
-Software Development: Skilled in Python, C++, MATLAB, and tools like ROS.
+Software Development: Skilled in Python, C++, MATLAB, and ROS.
 
 🌟 Software Development
 Software Development: Professional Gamedev: in (C# & C++), Java, Professional Webdev: (NEXT Stack, TS, JS), and Python.
