@@ -17,7 +17,7 @@ Expert in Utilizing Agentic AI Solutions.
 Deep Reinforcement Learning for Autonomous Decision Making.
 SLAM for real-time navigation and mapping.
 Edge AI optimization for embedded systems.
-E-commerce using Shopify & TikTok ads.
+E-commerce using Shopify, full-stack e-com & TikTok ads .
 
 
 
