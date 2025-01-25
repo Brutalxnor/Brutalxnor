@@ -2,7 +2,7 @@
 
 ->I’m a Mechatronics Engineer, AI Innovator, and Problem Solver. I focus on creating intelligent solutions for real-world challenges.<-
 
-🚀 Expertise
+🚀 Expertise:
 Mechatronics & Robotics: Autonomous robots with advanced navigation, perception, and control systems.
 AI & Deep Learning: Computer vision, natural language processing, and reinforcement learning.
 Software Development: Skilled in Python, C++, MATLAB, and ROS.
