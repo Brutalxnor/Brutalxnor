@@ -26,7 +26,7 @@ Autonomous Navigation: Building AI-driven robots and drones.
 AI Video Automation: Developing SaaS tools to automate video creation.
 Robotic Vision: Designing systems for object detection and mapping.
 AI for Advertising: Automating and scaling ad campaigns on Instagram and TikTok.
-Founder of PS GameSwap EG
+Founder of PS EgConsole EG
 Owner of Super Fitness SaaS
 
 
