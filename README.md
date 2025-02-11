@@ -38,4 +38,5 @@ Open to new Job opportunities.
 📫 Connect With Me
 Email: ahmedmahmoud.au5@gmail.com
 Website: https://primesoftworks.com
+Latest: https://egconsole.onrender.com
 GitHub: github.com/Brutalxnor
