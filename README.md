@@ -35,6 +35,8 @@ I’m looking to collaborate on autonomous robotics, AI-powered systems, and dee
 
 Open to new Job opportunities.
 
+Currently working on EgConsole
+
 📫 Connect With Me
 Email: ahmedmahmoud.au5@gmail.com
 Website: https://primesoftworks.com
