@@ -13,7 +13,7 @@ Databases: SQL, NoSQL. (MongoDB & Supabase).
 AI SaaS Solutions: Developing scalable platforms for automation and efficiency.
 Expert in Using Agentic AI Solutions & micro-services.
 
-🌱 Current Focus
+🌱 Current Focus:
 Deep Reinforcement Learning for Autonomous Decision Making.
 SLAM for real-time navigation and mapping.
 Edge AI optimization for embedded systems.
