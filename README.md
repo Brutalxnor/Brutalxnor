@@ -35,7 +35,7 @@ I’m looking to collaborate on autonomous robotics, AI-powered systems, and dee
 
 Open to new Job opportunities.
 
-Currently working on EgConsole and EgConsole admin.
+DONE WITH EGCONSOLE AND EGCONSOLE ADMIN
 
 WORKING ON SOCIAL MEDIA ADVERTISING FOR EgConsole
 
