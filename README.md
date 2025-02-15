@@ -40,5 +40,5 @@ Currently working on EgConsole and EgConsole admin.
 📫 Connect With Me
 Email: ahmedmahmoud.au5@gmail.com
 Website: https://primesoftworks.com
-Latest: https://egconsole.onrender.com
+Latest: https://egconsole.com
 GitHub: github.com/Brutalxnor
