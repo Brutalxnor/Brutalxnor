@@ -37,6 +37,8 @@ Open to new Job opportunities.
 
 Currently working on EgConsole and EgConsole admin.
 
+WORKING ON SOCIAL MEDIA ADVERTISING FOR EgConsole
+
 📫 Connect With Me
 Email: ahmedmahmoud.au5@gmail.com
 Website: https://primesoftworks.com
