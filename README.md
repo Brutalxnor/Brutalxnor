@@ -37,7 +37,7 @@ Open to new Job opportunities.
 
 DONE WITH EGCONSOLE AND EGCONSOLE ADMIN
 
-WORKING ON SOCIAL MEDIA ADVERTISING FOR EgConsole
+WORKING ON SOCIAL MEDIA ADVERTISING FOR: EgConsole, Fitness SaaS
 
 started working on new projects: Wasalny
 
