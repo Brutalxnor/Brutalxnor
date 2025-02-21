@@ -41,7 +41,7 @@ WORKING ON SOCIAL MEDIA ADVERTISING FOR: EgConsole, Fitness SaaS
 
 started working on new projects: Wasalny
 
-📫 Connect With Me
+📫 Connect With Me:
 Email: ahmedmahmoud.au5@gmail.com
 Website: https://primesoftworks.com
 Latest: https://egconsole.com
