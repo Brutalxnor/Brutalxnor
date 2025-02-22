@@ -39,7 +39,7 @@ DONE WITH EGCONSOLE AND EGCONSOLE ADMIN
 
 WORKING ON SOCIAL MEDIA ADVERTISING FOR: EgConsole, Fitness SaaS
 
-started working on new projects: Wasalny
+started working on new projects:: Wasalny
 
 📫 Connect With Me:
 Email: ahmedmahmoud.au5@gmail.com
