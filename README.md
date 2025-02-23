@@ -41,7 +41,7 @@ WORKING ON SOCIAL MEDIA ADVERTISING FOR:
 EgConsole, Fitness SaaS
 
 started working on new projects: 
--Wasalny -Live Trading Bot
+-Wasalny -Live Trading Bot -DexScreener Sniffer
 
 📫 Connect With Me:
 Email: ahmedmahmoud.au5@gmail.com
