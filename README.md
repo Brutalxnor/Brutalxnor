@@ -1,6 +1,6 @@
 👋 Hi, I'm Ahmed Mahmoud (@Brutalxnor)
 
-->I’m a Mechatronics Engineer, AI Innovator, and Problem Solver. I focus on creating intelligent solutions for real-world challenges.<-
+->I’m a Mechatronics Engineer, AI Innovator, Problem Solver, and a Trader. I focus on creating intelligent solutions for real-world challenges.<-
 
 🚀 Expertise:
 Mechatronics & Robotics: Autonomous robots with advanced navigation, perception, and control systems.
