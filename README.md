@@ -33,7 +33,7 @@ Live trading BOT in XAUUSD
 🤝 Collaboration
 I’m looking to collaborate on autonomous robotics, AI-powered systems, and deep learning innovations. Let’s work together to push the boundaries of technology.
 
-Open to new Job opportunities.
+Open to new Job opportunities---->
 
 DONE WITH EGCONSOLE AND EGCONSOLE ADMIN
 
