@@ -1,4 +1,4 @@
-👋 Hi, I'm Ahmed Mahmoud (@Brutalxnor)
+👋 Hi, I'm Ahmed Mahmoud (@Brutalxnor)<---
 
 ->I’m a Mechatronics Engineer, AI Innovator, Problem Solver, and a Trader. I focus on creating intelligent solutions for real-world challenges.<-
 
