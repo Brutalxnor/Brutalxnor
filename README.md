@@ -40,6 +40,8 @@ DONE WITH EGCONSOLE AND EGCONSOLE ADMIN
 WORKING ON SOCIAL MEDIA ADVERTISING FOR:
 EgConsole, Fitness SaaS
 
+Exploring: Expo
+
 started working on new projects: 
 -Wasalny -Live Trading Bot for XAUUSD -DexScreener Sniffer - IN-GAME CRYPTOCURRENCY
 
