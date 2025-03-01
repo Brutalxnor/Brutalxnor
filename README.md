@@ -45,6 +45,8 @@ Exploring: Expo
 started working on new projects: 
 -Wasalny -Live Trading Bot for XAUUSD -DexScreener Sniffer - IN-GAME CRYPTOCURRENCY
 
+Starting My Personal Brand: @BrutalTech 
+
 📫 Connect With Me:
 Email: ahmedmahmoud.au5@gmail.com
 Website: https://primesoftworks.com
