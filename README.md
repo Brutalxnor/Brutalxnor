@@ -7,7 +7,7 @@ Mechatronics & Robotics: Autonomous robots with advanced navigation, perception,
 AI & Deep Learning: Computer vision, natural language processing, and reinforcement learning.
 Software Development: Skilled in Python, C++, MATLAB, and ROS.
 
-🌟 Software Development
+🌟 Software Development:
 Software Development: Professional Gamedev: in (C# & C++), Java, Professional Webdev: (NEXT Stack, TS, JS), and Python.
 Databases: SQL, NoSQL. (MongoDB & Supabase).
 AI SaaS Solutions: Developing scalable platforms for automation and efficiency.
