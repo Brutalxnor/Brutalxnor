@@ -29,6 +29,8 @@ AI for Advertising: Automating and scaling ad campaigns on Instagram and TikTok.
 Founder of Prime Softworks, EgConsole EG & EgConsole Admin, Arcelora, and Archelora.
 Owner of Super Fitness SaaS
 Live trading BOT in XAUUSD
+Kokita Brushes Brand
+Agency OS
 
 🤝 Collaboration
 I’m looking to collaborate on autonomous robotics, AI-powered systems, and deep learning innovations. Let’s work together to push the boundaries of technology.
