@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 Ahmed Mahmoud | @BrutalTech
+# 👋 Ahmed Mahmoud | @Brutalxnor
 ### 🤖 Mechatronics Engineer • AI Innovator • Problem Solver • Trader
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Mechatronics+%26+AI+Engineer;Autonomous+Robotics+Expert;Full-Stack+Developer;SaaS+Entrepreneur" alt="Typing SVG" />
