@@ -133,10 +133,6 @@
 
 ### 🤝 **Looking to Collaborate On**
 **Autonomous Robotics** • **AI-Powered Systems** • **Deep Learning Innovations**
-
-### 💼 **Open to New Job Opportunities**
-Ready to push the boundaries of technology together!
-
 ---
 
 <img src="https://komarev.com/ghpvc/?username=Brutalxnor&color=blueviolet&style=for-the-badge" alt="Profile Views" />
