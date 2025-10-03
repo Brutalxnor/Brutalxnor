@@ -69,7 +69,7 @@
 - 🛒 E-commerce Solutions
 - 📱 Social Media Automation
 - 📊 Live Trading Systems
-- 🎨 Brand Development
+- 🎨 AI Automations
 
 </td>
 </tr>
