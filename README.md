@@ -1,26 +1,29 @@
 <div align="center">
   
 # 👋 Ahmed Mahmoud | @Brutalxnor
-### 🤖 Mechatronics Engineer • AI Innovator • Problem Solver • Trader
+### 🤖 Mechatronics Engineer • AI Innovator • Prime Softworks Founder • Trader
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Mechatronics+%26+AI+Engineer;Autonomous+Robotics+Expert;Full-Stack+Developer;SaaS+Entrepreneur" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Prime+Softworks+Founder;Mechatronics+%26+AI+Engineer;Autonomous+Robotics+Expert;Full-Stack+Developer;SaaS+Entrepreneur" alt="Typing SVG" />
 
-[![Website](https://img.shields.io/badge/-Website-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://primesoftworks.com)
+[![Website](https://img.shields.io/badge/-Prime%20Softworks-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://primesoftworks.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmahmoud.au5@gmail.com)
 
 </div>
+
 ---
 
 ## 🎯 About Me
 
-> **Creating intelligent solutions for real-world challenges through cutting-edge technology**
+> **Founder of Prime Softworks - Creating intelligent solutions for real-world challenges through cutting-edge technology**
 
+🚀 **Prime Softworks Founder** - Leading AI and automation solutions  
 🔬 **Mechatronics Engineer** specializing in autonomous systems  
 🤖 **AI Innovator** building next-generation intelligent solutions  
 💡 **Problem Solver** turning complex challenges into elegant solutions  
 📈 **Trader** with expertise in algorithmic trading systems  
 
 ---
+
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -48,6 +51,25 @@
 
 ---
 
+## 🏢 Prime Softworks Portfolio
+
+<div align="center">
+
+### 🌟 **Live Production Projects**
+
+| Project | Industry | Technology | Status |
+|---------|----------|------------|--------|
+| [**Off-Plan SA**](https://off-plan.sa) | Real Estate | Next.js, AI | 🚀 Live |
+| [**Genius Platform**](https://genuis-tawny.vercel.app/en) | AI Solutions | React, ML | ✅ Active |
+| [**Egyptian ESC**](https://egyptianesc.com) | Gaming/Events | Full-Stack | 🎮 Live |
+| [**Godzilla Platform**](https://godzilla-fe.vercel.app/) | Enterprise | Vue.js | 🔥 Production |
+| [**Maqar SA**](https://maqar.com.sa) | Real Estate | Next.js | 🏠 Live |
+| [**AutoCycle Egypt**](https://autocycle.com.eg) | Automotive | React, Node.js | 🚗 Active |
+
+</div>
+
+---
+
 ## 🚀 Current Focus
 
 <table>
@@ -63,11 +85,11 @@
 </td>
 <td width="50%">
 
-### 💼 **Business & SaaS**
-- 🛒 E-commerce Solutions
-- 📱 Social Media Automation
-- 📊 Live Trading Systems
-- 🎨 AI Automations
+### 💼 **Prime Softworks Solutions**
+- 🛒 E-commerce Platforms
+- 📱 AI Automation Systems
+- 📊 Real Estate Tech
+- 🎨 Custom SaaS Development
 
 </td>
 </tr>
@@ -75,21 +97,7 @@
 
 ---
 
-## 🏢 Companies & Projects
-
-<div align="center">
-
-| Company | Focus | Status |
-|---------|-------|--------|
-| **Prime Softworks** | AI Solutions | 🚀 Active |
-| **EgConsole** | Gaming Platform | ✅ Completed |
-| **Arcelora** | Tech Innovation | 🔥 Growing |
-| **Super Fitness SaaS** | Health Tech | 💪 Active |
-| **BrutalTech** | Personal Brand | 🎯 Building |
-
-</div>
-
-### 🔥 Featured Projects
+## 🔥 Featured Innovations
 
 <div align="center">
 <table>
@@ -99,12 +107,12 @@
 <p>AI-driven robots and drones with advanced perception systems</p>
 </td>
 <td align="center" width="33%">
-<h4>🎥 AI Video Automation</h4>
-<p>SaaS platform for automated video content creation</p>
+<h4>🏠 Real Estate AI</h4>
+<p>Smart property analysis and recommendation systems</p>
 </td>
 <td align="center" width="33%">
-<h4>💰 Live Trading Bot</h4>
-<p>Algorithmic trading system for XAUUSD markets</p>
+<h4>💰 Trading Algorithms</h4>
+<p>Automated trading systems for financial markets</p>
 </td>
 </tr>
 </table>
@@ -130,11 +138,12 @@
 <div align="center">
 
 ### 🤝 **Looking to Collaborate On**
-**Autonomous Robotics** • **AI-Powered Systems** • **Deep Learning Innovations**
+**Enterprise AI Solutions** • **Autonomous Robotics** • **SaaS Development** • **Real Estate Tech**
+
 ---
 
 <img src="https://komarev.com/ghpvc/?username=Brutalxnor&color=blueviolet&style=for-the-badge" alt="Profile Views" />
 
-*Let's build the future with intelligent technology* 🚀
+*Building the future with Prime Softworks - Where AI meets Innovation* 🚀
 
 </div>
