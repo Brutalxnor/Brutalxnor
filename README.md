@@ -20,7 +20,6 @@
 🤖 **AI Innovator** building next-generation intelligent solutions  
 💡 **Problem Solver** turning complex challenges into elegant solutions  
 📈 **Trader** with expertise in algorithmic trading systems  
-
 ---
 
 ## 🛠️ Tech Stack
