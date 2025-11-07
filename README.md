@@ -22,6 +22,7 @@
 📈 **Trader** with expertise in algorithmic trading systems  
 ---
 
+
 ## 🛠️ Tech Stack
 
 <div align="center">
