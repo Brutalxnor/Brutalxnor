@@ -10,7 +10,6 @@
 
 </div>
 ---
-
 ## 🎯 About Me
 
 > **Founder of Prime Softworks - Creating intelligent solutions for real-world challenges through cutting-edge technology**
