@@ -21,7 +21,6 @@
 ---
 
 ## 🛠️ Tech Stack
-
 <div align="center">
 
 ### 🤖 AI & Robotics
