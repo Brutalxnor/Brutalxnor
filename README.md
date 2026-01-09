@@ -59,7 +59,6 @@
 | [**AutoCycle Egypt**](https://autocycle.com.eg) | Automotive | React, Node.js | 🚗 Active |
 
 </div>
-
 ---
 ## 🚀 Current Focus
 
