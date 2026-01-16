@@ -56,7 +56,6 @@
 | [**Godzilla Platform**](https://godzilla-fe.vercel.app/) | Enterprise | Vue.js | 🔥 Production |
 | [**Maqar SA**](https://maqar.com.sa) | Real Estate | Next.js | 🏠 Live |
 | [**AutoCycle Egypt**](https://autocycle.com.eg) | Automotive | React, Node.js | 🚗 Active |
-
 </div>
 ---
 ## 🚀 Current Focus
