@@ -4,7 +4,6 @@
 ### 🤖 Mechatronics Engineer • AI Innovator • Prime Softworks Founder • Trader
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=435&lines=Prime+Softworks+Founder;Mechatronics+%26+AI+Engineer;Autonomous+Robotics+Expert;Full-Stack+Developer;SaaS+Entrepreneur" alt="Typing SVG" />
-
 [![Website](https://img.shields.io/badge/-Prime%20Softworks-FF6B6B?style=for-the-badge&logo=safari&logoColor=white)](https://primesoftworks.com)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmahmoud.au5@gmail.com)
 
