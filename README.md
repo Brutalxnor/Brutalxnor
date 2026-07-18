@@ -1,5 +1,6 @@
 <div align="center">
 
+
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Ahmed+Mahmoud+%7C+@Brutalxnor;Prime+Softworks+Founder;AI+%E2%80%A2+Robotics+%E2%80%A2+SaaS" alt="Typing SVG" />
 
 **Mechatronics Engineer · AI Innovator · Founder of [Prime Softworks](https://primesoftworks.com)**
